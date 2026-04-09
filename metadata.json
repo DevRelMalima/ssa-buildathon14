@@ -1,0 +1,5 @@
+{
+  "name": "AgriAssist AI",
+  "description": "AI-driven agricultural advisory tool for smallholder farmers to diagnose crop stress and receive climate-smart planting schedules.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
